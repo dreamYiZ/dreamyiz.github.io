@@ -7,21 +7,8 @@ author:
 
 baseurl: /
 
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 3
-paginate_path: /page/:num/
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-future: true
+# Build settings
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
