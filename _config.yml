@@ -10,7 +10,6 @@ baseurl: /
 # Build settings
 theme: jekyll-theme-midnight
 plugins:
-  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
 
