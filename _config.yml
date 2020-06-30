@@ -8,7 +8,7 @@ author:
 baseurl: /
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
