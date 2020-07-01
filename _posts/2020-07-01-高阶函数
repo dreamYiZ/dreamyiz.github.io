@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Hello World!"
+date:   2020-07-01 12:33:34 +0800
+categories: other
+---
+`Hello` World!
+
+{% highlight javascript %}
+console.log('Hello World!')
+{% endhighlight %}
+
+My [web-site][web-site] 
+
+[web-site]: https://dreamyiz.github.io/
