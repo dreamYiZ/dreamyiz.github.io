@@ -2,14 +2,8 @@
 layout: post
 title:  "Hello World!"
 date:   2020-07-01 12:33:34 +0800
-categories: other
+categories: react
 ---
-`Hello` World!
-
-{% highlight javascript %}
-console.log('Hello World!')
-{% endhighlight %}
-
-My [web-site][web-site] 
-
-[web-site]: https://dreamyiz.github.io/
+今天做几个类似的表单、注入一些参数，想着少一些copy、paste，就用了一下组件包来包去。
+在网上一查，原来这就叫做HOC，HOC我以前也听过，以前没这样写过，觉得这些名词顶牛了。
+没想到套一套函数，就等于是HOC了。
