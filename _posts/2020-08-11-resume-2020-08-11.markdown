@@ -26,4 +26,6 @@ categories: resume
       使用了antd,react,react-router,redux,redux-thunk,TypeScript。
 
 # 社交网站
-    https://zhuanlan.zhihu.com/learnjs
+  [https://zhuanlan.zhihu.com/learnjs][zhihu-learnjs]
+
+[zhihu-learnjs]:https://zhuanlan.zhihu.com/learnjs
