@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Test 1!"
-date:   2020-06-30 16:22:33 +0800
+title:   nothing
+date:   2020-09-23 17:52:29 +0800
 categories: other
 ---
 `Hello` World!
@@ -9,8 +9,4 @@ categories: other
 {% highlight javascript %}
 console.log('Hello World!')
 {% endhighlight %}
-
-My [web-site][web-site] 
-
-[web-site]: https://dreamyiz.github.io/
 
