@@ -18,7 +18,7 @@ categories: resume
 *  Linux基本的命令使用，如ls,cd,pwd,shutdown,vi,ssh
 
 # 工作经历
-1、2019年4月至今--上海分圆信息
+1、2019年4月至今--上海某金融公司
 
     1、用户分期手机网页应用。用户可以用微信扫码打开网页，进行资料填写、完成分期流程。
       使用了antd-mobile,react,react-router,redux,redux-thunk。
