@@ -1,4 +1,6 @@
-# Power By Rentoo
+# url
+
+https://dreamyiz.github.io/
 
 
 # how to run 
@@ -11,3 +13,5 @@ bundle install
 # add new post 
 
 ./new.sh '[title]'
+
+
