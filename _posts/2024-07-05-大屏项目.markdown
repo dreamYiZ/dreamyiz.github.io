@@ -1,0 +1,16 @@
+---
+layout: post
+title:   大屏项目
+date:   2024-07-05 10:27:52 +0800
+categories: other
+---
+
+# 大屏项目
+
+不写代码，制作大屏项目
+
+
+
+![daping-1](/assets/daping-1.png)
+![daping-2](/assets/daping-2.png)
+![daping-3](/assets/daping-3.png)
